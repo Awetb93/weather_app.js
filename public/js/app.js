@@ -1,4 +1,3 @@
-console.log("Client side javascript file is loaded!");
 const form = document.getElementById("form");
 const input = document.getElementById("input");
 const weatherEl = document.getElementById("weather");
